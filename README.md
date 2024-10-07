@@ -77,5 +77,7 @@ endmodule
 ![alt text](image.png)
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![alt text](image-1.png)
+
 **RESULTS**
+
 The observation of the simulation results and confirm the successful execution of the program.
